@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body{
+    /* padding-left: 190px; */
+
+  }
+}
+#main_page{
+  background: url('img/Group\ 10624\ \(1\).png');
+}
+.container{
+  max-width: 1200px;
+  min-width: 1220px;
+}
